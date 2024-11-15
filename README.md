@@ -5,13 +5,11 @@
 
 A curated list of **Awesome LinkedIn Learning Courses** in the AI industry. This list includes top-rated courses that cover various aspects of artificial intelligence, machine learning, data science, and related fields. Whether you're a beginner or an experienced professional, these courses will help you enhance your skills and stay updated with the latest trends in AI.
 
-![Artificial Intelligence](https://miro.medium.com/max/1400/1*IJKr0Lk6lNXHbc9UvtyINw.jpeg)
 
 ## Why You Should Level Up
 
 Artificial Intelligence is transforming industries and creating new opportunities. By expanding your knowledge in AI, you can advance your career, contribute to innovative projects, and stay ahead in a rapidly evolving field. These courses are designed to provide you with the skills and understanding needed to excel in the AI industry.
 
----
 
 ## Courses
 
