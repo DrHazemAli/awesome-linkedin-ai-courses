@@ -5,6 +5,7 @@
 
 A curated list of **Awesome LinkedIn Learning Courses** in the AI industry. This list includes top-rated courses that cover various aspects of artificial intelligence, machine learning, data science, and related fields. Whether you're a beginner or an experienced professional, these courses will help you enhance your skills and stay updated with the latest trends in AI.
 
+![](https://learning.linkedin.com/content/dam/me/business/en-us/amp/learning-solutions/images/solutions-pages/2023-refresh/Solutions-page-Social-Share.jpg)
 
 ## Why You Should Level Up
 
@@ -94,13 +95,10 @@ Artificial Intelligence is transforming industries and creating new opportunitie
 
 <small>Issuer: LinkedIn Learning &nbsp;|&nbsp; Type: Online Course Completion Certificate</small>
 
----
 
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to add new courses or improve existing ones.
-
----
 
 ## License
 
@@ -108,12 +106,9 @@ Contributions are welcome! Please submit a pull request or open an issue to add 
 
 This repository is licensed under the MIT License.
 
----
 
 *Made with ❤️ by [DrHazemAli](https://github.com/DrHazemAli)*
 
----
 
 **Note:** The star ratings are based on average user reviews up to my knowledge cutoff in September 2023 and may have changed since then.
 
----
